@@ -1,16 +1,17 @@
-### Hi there 👋
+# Gabriel Pereira 👨‍💻
 
-<!--
-**Gabrielpdev/gabrielpdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-pereira-oliveira-78b1801ab/)](https://www.linkedin.com/in/gabriel-pereira-oliveira-78b1801ab/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel9938@gmail.com)](mailto:gabriel9938@gmail.com)
 
-Here are some ideas to get you started:
+## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm studying aboout Full-Stack developer with:
+- JavaScript
+- TypeScript
+- Node.js
+- ReactJS
+- React Native
+
+Here on github you can see all projects I builded.
+
+Thanks to be here ❤
