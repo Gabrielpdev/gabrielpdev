@@ -15,3 +15,5 @@ I'm studying aboout Full-Stack developer with:
 Here on github you can see all projects I builded.
 
 Thanks to be here ❤
+
+![Snake animation](https://github.com/gabrielpdev/rafaballerini/blob/output/github-contribution-grid-snake.svg)
