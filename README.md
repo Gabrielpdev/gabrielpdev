@@ -16,4 +16,4 @@ Here on github you can see all projects I builded.
 
 Thanks to be here ❤
 
-![Snake animation](https://github.com/gabrielpdev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gabrielpdev/blob/output/github-contribution-grid-snake.svg)
