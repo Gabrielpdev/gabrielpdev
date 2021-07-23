@@ -5,13 +5,27 @@
 
 ## Hi there 👋
 
-I'm studying aboout Full-Stack developer with:
-- JavaScript
-- TypeScript
-- Node.js
-- ReactJS
-- React Native
+<p align="left">
+  <p>I'm studying aboout Full-Stack developer with:</p>    
+  <div>- JavaScript</div>
+  <div>- TypeScript</div>
+  <div>- Node.js</div>
+  <div>- ReactJS</div>
+  <div>- React Native</div>
+</p>
 
 Here on github you can see all projects I builded.
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielpdev&show_icons=true&count_private=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpdev&layout=compact&langs_count=5&count_private=true&theme=dark" align="right"/>
+</a>
+
+
+<div>
+  
+  ![Snake animation](https://github.com/gabrielpdev/gabrielpdev/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 Thanks to be here ❤
