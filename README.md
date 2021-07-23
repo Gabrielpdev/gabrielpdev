@@ -17,7 +17,7 @@
 Here on github you can see all projects I builded.
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielpdev&show_icons=true&count_private=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielpdev&show_icons=true&count_private=true&theme=dark" width="480px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpdev&layout=compact&langs_count=5&count_private=true&theme=dark" align="right"/>
 </a>
 
